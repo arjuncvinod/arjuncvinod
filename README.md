@@ -1,7 +1,7 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://arjuncvinod.github.io)
+[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <h1 align="center">Hi 👋, I'm Arjun C Vinod</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjuncvinod&label=Profile%20views&color=0e75b6&style=flat" alt="arjuncvinod" /> </p>
 
 
@@ -41,16 +41,11 @@
 <p align="center">
 <a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://camo.githubusercontent.com/fc7ab63c0d13a62ee92c9262c367cdf87b13b50f5781eb5854daf78d1d150c49/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f26626f726465725f636f6c6f723d6339666630302673686f775f69636f6e733d74727565">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&show_icons=true&locale=en" alt="arjuncvinod" /></p>
 
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://camo.githubusercontent.com/badb9b8e33b5dd64ba966714daf05dc0018b7a8ceb6e6d0bd26cb996743e15c7/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732d7472696e69622e76657263656c2e6170702f3f757365723d7472696e6962267468656d653d6d65726b6f26626f726465723d63396666303026666972653d666635353030">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&" alt="arjuncvinod" /></p>
 
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt"><img src="https://camo.githubusercontent.com/14ae1b49b861837c7787f8ba19b5b7349d160bdbc0b90f2184b60789449077f1/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7472696e6962267468656d653d6d65726b6f266c61796f75743d636f6d7061637426626f726465725f636f6c6f723d633966663030266c616e67735f636f756e743d36">
+<p width="100%" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjuncvinod&show_icons=true&locale=en&layout=compact" alt="arjuncvinod" /></p>
 
 
 
@@ -58,11 +53,5 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
-<!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjuncvinod" alt="arjuncvinod" /></a> </p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
- </div>
