@@ -41,9 +41,9 @@
 <p align="center">
 <a href="https://trinib.wrapped.run"><b>My GitHub Wrapped</b></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&show_icons=true&locale=en" alt="arjuncvinod" /></p>
+<p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=arjuncvinod&show_icons=true&locale=en" alt="arjuncvinod" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&" alt="arjuncvinod" /></p>
+<p><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&" alt="arjuncvinod" /></p>
 
 <p width="100%" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjuncvinod&show_icons=true&locale=en&layout=compact" alt="arjuncvinod" /></p>
 
