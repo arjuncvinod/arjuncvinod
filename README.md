@@ -1,6 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 <h1 align="center">Hi 👋, I'm Arjun C Vinod</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer</h3>
+<p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjuncvinod&label=Profile%20views&color=0e75b6&style=flat" alt="arjuncvinod" /> </p>
 
@@ -13,13 +14,13 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://arjuncvinod.github.io](https://arjuncvinod.github.io)
+- 👨‍💻 All of my projects are available at [My Website](https://arjuncvinod.github.io)
 
 - 💬 Ask me about **Node.js, MongoDB, PHP, MySQL**
 
 - 📫 How to reach me **arjuncvinod7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
+- 📄 Know about my experiences [Checkout Resume](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
