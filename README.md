@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [My Website](https://arjuncvinod.github.io)
 
