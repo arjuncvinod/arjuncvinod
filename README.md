@@ -119,7 +119,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
- <h2 align="center"> Show some ❤️ by starring some of the repositories! </h2>
+ <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
 <!---### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arjuncvinod&limit=5&theme=dark&combine_all_yearly_contributions=true)--->
 
