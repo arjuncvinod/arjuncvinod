@@ -120,12 +120,6 @@
 <br>
 
  <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
-<!---### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arjuncvinod&limit=5&theme=dark&combine_all_yearly_contributions=true)--->
-
-
----
-<!---[![](https://visitcount.itsvg.in/api?id=arjuncvinod&icon=5&color=11)](https://visitcount.itsvg.in) -->
 
 
 
