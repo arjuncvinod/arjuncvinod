@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Arjun C Vinod</h1>
  <!----Tag line------>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX Designer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;UI/UX+Designer;Computer+Science+Student;Open-Source+Enthusiast" alt="Headline" />
     </div>
 <p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p>
 
