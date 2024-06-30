@@ -1,0 +1,48 @@
+name: Snake generator
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *" # run every hour
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: main
+
+      - name: Set up date
+        id: date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Create snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-${{ env.DATE }}.svg
+            dist/github-snake-dark-${{ env.DATE }}.svg?palette=github-dark
+            dist/ocean-${{ env.DATE }}.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Create images directory
+        run: mkdir -p images
+
+      - name: Move generated files to images directory
+        run: mv dist/* images/
+
+      - name: Configure git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push images to main branch
+        run: |
+          git add images/
+          git commit -m "Add snake images for ${{ env.DATE }}"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
